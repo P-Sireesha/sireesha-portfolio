@@ -15,20 +15,14 @@ function Hero() {
         <img
           src={heroImg}
           className={styles.hero}
-          alt="Profile picture of Harris Johnsen"
-        />
-        <img
-          className={styles.colorMode}
-          src={themeIcon}
-          alt="Color mode icon"
-
+          alt="Profile picture of Pammi Sireesha"
         />
       </div>
       <div className={styles.info}>
         <h1>
-          Harris
+          Sireesha
           <br />
-          Johnsen
+          Pammi 
         </h1>
         <h2>Frontend Developer</h2>
         <span>
