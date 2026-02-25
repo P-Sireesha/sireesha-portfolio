@@ -1,5 +1,4 @@
 import styles from '../Styles/HeroStyles.module.css';
-import heroImg from '../assets/Design uten navn.png'
 import CV from '../assets/cv.pdf';
 import themeIcon from '../assets/moon.svg';
 import twitterIcon from '../assets/twitter-light.svg';
